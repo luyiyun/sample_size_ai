@@ -1,0 +1,5 @@
+{
+  "name": "BioStat Sample Size Calculator",
+  "description": "A conversational AI tool for medical researchers to calculate sample sizes for studies using rigorous statistical formulas.",
+  "requestFramePermissions": []
+}
